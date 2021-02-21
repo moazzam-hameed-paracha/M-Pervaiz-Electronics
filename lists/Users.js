@@ -1,11 +1,4 @@
-const {
-    Text,
-    Password,
-    DateTime,
-    Checkbox,
-    File,
-    
-} = require('@keystonejs/fields')
+const { Text, Password, DateTime, Checkbox, File, } = require('@keystonejs/fields')
 
 const { LocalFileAdapter } = require('@keystonejs/file-adapters');
 
